@@ -1,0 +1,36 @@
+* {
+  box-sizing: border-box;
+}
+body {
+  font-family: "Cairo", sans-serif;
+  margin: 0;
+}
+*:focus {
+  outline: none;
+}
+a {
+  text-decoration: none;
+}
+ul {
+  padding: 0;
+  list-style: none;
+}
+.page {
+  min-height: 100vh;
+  background-color: #f1f5f9;
+}
+/* start Sidebar */
+.sidebar {
+  width: 250px; 
+  box-shadow:0px 0px 10px #ddd;
+}
+.sidebar > h3{
+  
+}
+.sidebar > h3::before{
+  
+}
+.sidebar > h3::after{
+  
+}
+/* end Sidebar */
